@@ -51,7 +51,7 @@ sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
 2. Are these features able to be changed/renovated, or are they fixed?
 3. What are the best features that Trailblazer should market to potential clients?
 4. Who should Trailblazer target their marketing campaign toward?
-5. Are there any features that I recommend against? 
+5. Are there any features that I do not recommend pursuing? 
 
 # The Answers I found
 ### Features that have the biggest effect on home price
@@ -69,7 +69,7 @@ sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
 3. Basement Size -- I assume that this would be difficult, but not impossible.
 4. Additional Bathrooms
 
-### Features that I don't recommend against
+### Features that I don't recommend pursuing:
 1. Extra Bedrooms
 2. Extra Floors
 
