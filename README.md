@@ -24,27 +24,27 @@ While they plan on marketing to all of King County, they want to know if there a
 # The Data
 I have the king county dataset which gives information on home values in King County. Here is what is contained in the raw data:
 
-id - unique identified for a house
-date - house was sold
-price - is prediction target
-bedrooms - of Bedrooms/House
-bathrooms - of bathrooms/bedrooms
-sqft_livings - footage of the home
-sqft_lots - footage of the lot
-floors - floors (levels) in house
-waterfront - House which has a view to a waterfront
-view - Has been viewed
-condition - How good the condition is ( Overall )
-grade - overall grade given to the housing unit, based on King County grading system
-sqft_above - square footage of house apart from basement
-sqft_basement - square footage of the basement
-yr_built - Built Year
-yr_renovated - Year when house was renovated
-zipcode - zip
-lat - Latitude coordinate
-long - Longitude coordinate
-sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
-sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
+- id - unique identified for a house
+- date - house was sold
+- price - is prediction target
+- bedrooms - of Bedrooms/House
+- bathrooms - of bathrooms/bedrooms
+- sqft_livings - footage of the home
+- sqft_lots - footage of the lot
+- floors - floors (levels) in house
+- waterfront - House which has a view to a waterfront
+- view - Has been viewed
+- condition - How good the condition is ( Overall )
+- grade - overall grade given to the housing unit, based on King County grading system
+- sqft_above - square footage of house apart from basement
+- sqft_basement - square footage of the basement
+- yr_built - Built Year
+- yr_renovated - Year when house was renovated
+- zipcode - zip
+- lat - Latitude coordinate
+- long - Longitude coordinate
+- sqft_living15 - The square footage of interior housing living space for the nearest 15 neighbors
+- sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
 
 # Questions I Wanted to Answer
 1. What features have the biggest effect on home price?
