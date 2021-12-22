@@ -54,7 +54,7 @@ sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
 5. Are there any features that I recommend against? 
 
 # The Answers I found
- <u>Features that have the biggest effect on home price</u>
+### Features that have the biggest effect on home price
 1. Size of House (excluding Basement).
 2. Grade
 3. Location (Zip Code) 
@@ -63,13 +63,13 @@ sqft_lot15 - The square footage of the land lots of the nearest 15 neighbors
 6. Size of Lot
 7. Number of Bathrooms
 
-<u>Features that CAN be changed (even if difficult):</u>
+### Features that CAN be changed (even if difficult):
 1. Size of House
 2. Grade
 3. Basement Size -- I assume that this would be difficult, but not impossible.
 4. Additional Bathrooms
 
-<u>Features that I don't recommend against</u>
+### Features that I don't recommend against
 1. Extra Bedrooms
 2. Extra Floors
 
@@ -82,21 +82,28 @@ These features have a negative coefficient in regards to home price. If the clie
 
 # Recommendations:
 
-<u>Recommendation 1:</u>
+### Recommendation 1:
+
+https://github.com/jxn628/dsc-phase-2-project/blob/main/images/home_price_by_home_size.png
+
+
 Trailblazer Renovations should focus on home additions. <b>Increasing the square footage of the home has the greatest effect on the value of the house.</b> This is advice that can be given to any homeowner whereever they live in King County. 
 - The increased square footage should be used for common areas as additional bedrooms have a negative corellation with price. 
 - Extra floors should also be avoided, as floors have a negative corellation with price.
 - The exception to this is in the basement. Theoretically, if you are able to increase the space in your basement (perhaps converting mechanical closets/storage into common space), there is value to be added there.
     - I know that it is possible to even add a basement to a house that didn't initially have one, but I also know that it's signficantly more expensive to do that.
     
- <u>Recommendation 2:</u>
+### Recommendation 2:
  Trailblazer Renovations Inc. should use targeted marketing to homeowners in certain zip codes within King County. **There is a high coefficient on many zip codes, especially in the Seattle municipal area.**
 
 Assuming that the cost for labor and materials is the same no matter what zip code the house is located in, the same work with the same materials brings greater value in certain zip codes.
 
 Use the following list as a ranking of where to prioritize marketing efforts.
  
- <u>Recommendation 3:</u>
+### Recommendation 3:
+
+https://github.com/jxn628/dsc-phase-2-project/blob/main/images/home_price_by_grade.png
+
  The second most signicant corellation for Home Price is Building Grade. I recommend that all renovations and additions done by TrailBlazer be done to the highest level of quality in terms of both materials and workmanship. If the renovations can cause the house to increase in grade, it will improbe the value of the house.
 
 Most houses fall in the 7-8 grade. (71% of the records in the dataset). This is considered "Average" to "Just Above Average". Level 9 cites "better architectural design with extra interior and exterior design and quality."
