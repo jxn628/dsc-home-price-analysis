@@ -84,8 +84,7 @@ These features have a negative coefficient in regards to home price. If the clie
 
 ### Recommendation 1:
 
-https://github.com/jxn628/dsc-phase-2-project/blob/main/images/home_price_by_home_size.png
-
+![Home Price by Home Size](https://github.com/jxn628/dsc-phase-2-project/blob/main/images/home_price_by_home_size.png)
 
 Trailblazer Renovations should focus on home additions. <b>Increasing the square footage of the home has the greatest effect on the value of the house.</b> This is advice that can be given to any homeowner whereever they live in King County. 
 - The increased square footage should be used for common areas as additional bedrooms have a negative corellation with price. 
@@ -102,7 +101,7 @@ Use the following list as a ranking of where to prioritize marketing efforts.
  
 ### Recommendation 3:
 
-https://github.com/jxn628/dsc-phase-2-project/blob/main/images/home_price_by_grade.png
+![Home Price by Grade](https://github.com/jxn628/dsc-phase-2-project/blob/main/images/home_price_by_grade.png)
 
  The second most signicant corellation for Home Price is Building Grade. I recommend that all renovations and additions done by TrailBlazer be done to the highest level of quality in terms of both materials and workmanship. If the renovations can cause the house to increase in grade, it will improbe the value of the house.
 
