@@ -1,8 +1,9 @@
 # Data Folder
-data/
+*data/
 
 
-.canvas  
+*.canvas 
+ 
 .ipynb_checkpoints
 .DS_Store
 __pycache__
