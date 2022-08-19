@@ -1,5 +1,4 @@
-# Phase 2 Project
-
+# Home Price Analysis for King County WA
 
 # Summary
 I was tasked with analyzing home prices in King County to determine where the market for home renovations exists. Spefically, I was to determine which renovation types have the biggest increase in home value so that those services can be the focus of their marketing campaign.
